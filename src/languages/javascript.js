@@ -12,7 +12,7 @@ function(hljs) {
       'let yield const export super debugger as async await static ' +
       // ECMAScript 6 modules import
       'import from as' +
-      ' mutable viewof'
+      ' recipe'
     ,
     literal:
       'true false null undefined NaN Infinity',
