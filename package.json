@@ -20,6 +20,9 @@
     "async-languages"
   ],
   "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/highlightjs/highlight.js.git"
